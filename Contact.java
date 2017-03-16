@@ -12,3 +12,12 @@ public class Contact {
 		phonenumber = p;
 		bday = 100*month + day;
     }
+
+	public void changeNumber(int newnum){
+		phonenumber = newnum;
+	}
+	
+	//public void printContact(){
+	
+	
+		
